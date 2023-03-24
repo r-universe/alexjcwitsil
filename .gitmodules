@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "imagefx"]
+	path = imagefx
+	url = https://github.com/cran/imagefx
+	shallow = true
+	registered = true
